@@ -1,0 +1,38 @@
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\appsettings.json
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Sports API.exe
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Sports API.deps.json
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Sports API.runtimeconfig.json
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Sports API.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Sports API.pdb
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.csproj.AssemblyReference.cache
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.AssemblyInfoInputs.cache
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.AssemblyInfo.cs
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.csproj.CoreCompileInputs.cache
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\staticwebassets\msbuild.Sports API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\staticwebassets\msbuild.build.Sports API.props
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Sports API.props
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Sports API.props
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\scopedcss\bundle\Sports API.styles.css
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.csproj.CopyComplete
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.dll
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\refint\Sports API.dll
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.pdb
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\Sports API.genruntimeconfig.cache
+C:\Users\mmarcaccio\source\repos\Sports API\obj\Debug\net8.0\ref\Sports API.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\RockLib.Configuration.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\RockLib.Configuration.ObjectFactory.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\RockLib.Diagnostics.dll
+C:\Users\mmarcaccio\source\repos\Sports API\bin\Debug\net8.0\RockLib.Logging.dll
