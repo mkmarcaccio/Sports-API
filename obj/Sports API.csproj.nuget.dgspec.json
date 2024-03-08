@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mmarcaccio\\source\\repos\\Sports API\\Sports API.csproj": {}
+    "C:\\GIT\\Local Projects\\Sports-API\\Sports API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mmarcaccio\\source\\repos\\Sports API\\Sports API.csproj": {
+    "C:\\GIT\\Local Projects\\Sports-API\\Sports API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mmarcaccio\\source\\repos\\Sports API\\Sports API.csproj",
+        "projectUniqueName": "C:\\GIT\\Local Projects\\Sports-API\\Sports API.csproj",
         "projectName": "Sports API",
-        "projectPath": "C:\\Users\\mmarcaccio\\source\\repos\\Sports API\\Sports API.csproj",
+        "projectPath": "C:\\GIT\\Local Projects\\Sports-API\\Sports API.csproj",
         "packagesPath": "C:\\Users\\mmarcaccio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mmarcaccio\\source\\repos\\Sports API\\obj\\",
+        "outputPath": "C:\\GIT\\Local Projects\\Sports-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mmarcaccio\\AppData\\Roaming\\NuGet\\NuGet.Config",

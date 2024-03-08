@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YEU1p9xpeBa68M8JoU2WXtJ1aNTejIb1/XSYmkkCOTTHX4q8PBmeHgQ53IED1qjyCBH8oSOKFQU75Gopsi+Vvg==",
+  "dgSpecHash": "A5YyuH9BUUe0KD4OkcDGkXcmhUqPE8NAKhGqOe17mf+fz4w3xsPxmxzDNGeOyBLwJnissRiDC5kw2y/a+WdIQA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmarcaccio\\source\\repos\\Sports API\\Sports API.csproj",
+  "projectFilePath": "C:\\GIT\\Local Projects\\Sports-API\\Sports API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mmarcaccio\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\mmarcaccio\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
